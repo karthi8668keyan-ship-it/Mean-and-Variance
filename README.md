@@ -97,7 +97,9 @@ print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")```
 
 
+# input :
 
+Enter arrival data: 1 2 2 3 3 3
 
 # Output : 
 
