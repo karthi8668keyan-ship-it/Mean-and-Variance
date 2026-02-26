@@ -54,9 +54,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ## Declaring the value of n
 
-import numpy as np
-n = int(input("Enter the value of n : "))
-print("Value of n =", n)
+<img width="1040" height="115" alt="image" src="https://github.com/user-attachments/assets/02fa7ddc-663b-448e-a091-a20e3472d3bb" />
+
 
 
 
