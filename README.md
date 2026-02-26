@@ -53,7 +53,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
  Reg No : 212225230131
 
 ```
-1import numpy as np
+import numpy as np
 
 # Input: Enter the number of arrivals separated by space
 L = [int(i) for i in input("Enter arrival data: ").split()]
