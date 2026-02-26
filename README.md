@@ -49,7 +49,9 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 DEVELOPED BY : KARTHIKEYAN A
+
 Reg No : 212225230131
+
 Declaring the value of n
 import numpy as np
 n = int(input("Enter the value of n : "))
