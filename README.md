@@ -104,6 +104,18 @@ print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 Enter arrival data: 1 2 2 3 3 3
 
 # Output : 
+##
+
+X	p(x)
+1	0.167
+2	0.333
+3	0.500
+
+The Mean arrival rate is 2.333
+The Variance of arrival from feeder is 0.556
+The Standard deviation of arrival from feeder is 0.745
+
+##
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
